@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Welcome to the Dargons and Dungins Wiki!
 ---
 
-Hello world!
-
-Write some words here!
+HELLLLLOOOO!

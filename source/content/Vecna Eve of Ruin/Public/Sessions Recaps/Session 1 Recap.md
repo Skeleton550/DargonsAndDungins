@@ -1,0 +1,17 @@
+Everyone started in Neverwinter doing their own things. You all were then summoned by Lord Neverember to his private mansion to be briefed on an upcoming mission. You met your allies and were granted personal access to the Lords private bar and dining room. Varin and Neon drank and played cards and Neon won. Bartholamew chatted to the group and explained his travels from the astral plane to sigil, he also explained his great detestation of cutlery. Rix fed glimmer some of the food she ordered, Glimmer, being the pompous cat he is, didn’t eat it out of Rix’s hand and instead chose to tear it apart on his own plate with his claws.  
+
+Neon found Rix slightly suspicious due to the fact she is very open changling that doesn’t really hide her identity, something that isn’t common in the Sword Coast. Everyone drank further into the night; as everyone went to bed, Neon swiped a bottle of Whisky from Lord Neveremeber’s personal collection.  
+
+Most people were well rested in the Lord's guest rooms, bar one, and the group met up early in the morning to set off to the catacombs to find Eldon Keyward, Indrina Lamsensettle, Sarcelle Malinosh and Umberto Noblin 
+
+Upon arrival you encountered some zombies that were no match for you and your seasoned skills as adventurers. 
+
+Neon sent dancing lights down the stairway into the next room alerting the undead inside. The undead were quickly dispatched and you pressed on. Shortly after you came across a cell with a sleeping Sarcelle Malinosh inside that Glimmer rudely awoke. She told you about her disturbing vision of times soon to come. You lead her outside and Varin’s Horse took her back to Lord Neverember 
+
+You came across a water elemental and two water weirds, they warned you about the cult activity in a nearby room. They also directed you to speak to a “fish headed friend” and a prisoner in a nearby cell. When talking to the Marid, he told you about the cultists a bit more and told you he was bound here by the old Waterclock guild. After this you rescued Umberto Noblin who told you about his secret role as the lead historian researching specifically Vecna. 
+
+You fought through the catacombs and eventually came across a necromancer and his pet nothic, Rix disguised herself as a Vecna Cultist and persuaded the necromancer and his nothic to come through the secret door where you promptly ambushed and killed them both 
+
+You then came across Indrina Lamsensettle in her cell and rescued her. After you persuaded her to tell you what was troubling her, she told you that she knows that Lord Neverember doesn’t have a legitimate claim to the throne.  
+
+You pressed on into the ritual chamber, you planned how to approach the ritual and how to stop the cultists from harnessing Eldon Keyward’s secret. Upon entering none of the cultists attacked you allowing glimmer to fly up to Eldon, unlocking his cage, allowing him to jump out. This catastrophically interrupted the ritual with an explosion of necrotic magic. After gathering your things and getting ready to leave explosions could be heard from above. The ceiling then collapsed inward as Vecna descended into the catacombs. After a short fight against the God of Secrets you were knocked out and sent spiralling into the Shadowfell

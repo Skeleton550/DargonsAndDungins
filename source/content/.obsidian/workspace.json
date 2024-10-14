@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
+                "file": "Vecna Eve of Ruin/Public/Characters/dshajdksa.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Vecna Eve of Ruin/Public/Characters/dshajdksa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Vecna Eve of Ruin/Public/Characters/dshajdksa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Vecna Eve of Ruin/Public/Characters/dshajdksa.md"
               }
             }
           }
@@ -162,9 +162,17 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "Vecna Eve of Ruin/Public/Characters/Umberto Noblin.md",
+    "Vecna Eve of Ruin/Public/Characters/dshajdksa.md",
+    "Vecna Eve of Ruin/Images/UmbertoNoblin.png",
+    "index.md",
+    "Vecna Eve of Ruin/Public/Characters",
+    "Vecna Eve of Ruin/Images",
+    "Vecna Eve of Ruin/Private",
+    "Vecna Eve of Ruin/Public",
+    "Vecna Eve of Ruin",
     "category-folder/index.md",
     "category-folder/Some note.md",
-    "index.md",
     "category-folder"
   ]
 }

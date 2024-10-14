@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Characters/dshajdksa.md",
-                "mode": "preview",
+                "file": "Vecna Eve of Ruin/Private/uwu.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Characters/dshajdksa.md",
+                "file": "Vecna Eve of Ruin/Private/uwu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Characters/dshajdksa.md",
+                "file": "Vecna Eve of Ruin/Private/uwu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Characters/dshajdksa.md"
+                "file": "Vecna Eve of Ruin/Private/uwu.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "Vecna Eve of Ruin/Public/Characters/Umberto Noblin.md",
     "Vecna Eve of Ruin/Public/Characters/dshajdksa.md",
+    "Vecna Eve of Ruin/Private/uwu.md",
+    "Vecna Eve of Ruin/Public/Characters/Umberto Noblin.md",
     "Vecna Eve of Ruin/Images/UmbertoNoblin.png",
     "index.md",
     "Vecna Eve of Ruin/Public/Characters",

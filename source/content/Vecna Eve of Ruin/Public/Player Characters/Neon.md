@@ -1,0 +1,2 @@
+Neon is a secretive Lathander Cleric that helped the players rescue the prisoners from the Vecnan cult. 
+Before getting banished into the Shadowfell [[Vecna]] insulted each of the players but none of his insults fit Neon's description

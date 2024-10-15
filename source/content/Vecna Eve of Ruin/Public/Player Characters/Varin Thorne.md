@@ -1,0 +1,2 @@
+Varin Thorne is a high ranking member of the Lord's Alliance who helps the others rescue the 4 prisoners from Neverdeath Catacombs
+[[Vecna]] called Varin *"failure of a noble"* before banishing him to the Shadowfell

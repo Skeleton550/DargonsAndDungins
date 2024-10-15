@@ -11,12 +11,8 @@
             "id": "09c9b1972ad1931c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vecna Eve of Ruin/Public/Characters/Sarcelle Malinosh.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Characters/Sarcelle Malinosh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Characters/Sarcelle Malinosh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vecna Eve of Ruin/Public/Characters/Sarcelle Malinosh.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,15 +141,23 @@
   },
   "active": "09c9b1972ad1931c",
   "lastOpenFiles": [
-    "Vecna Eve of Ruin/Public/Characters/Umberto Noblin.md",
+    "Vecna Eve of Ruin/Public/Player Characters/Bartholamew the Spiritual.md",
+    "Vecna Eve of Ruin/Public/Player Characters/Ferros.md",
+    "Vecna Eve of Ruin/Public/Player Characters/Neon.md",
+    "Vecna Eve of Ruin/Public/Player Characters/Rix.md",
+    "Vecna Eve of Ruin/Public/Player Characters/Varin Thorne.md",
+    "Vecna Eve of Ruin/Public/Characters/Lord Neverember.md",
+    "Vecna Eve of Ruin/Public/Player Characters",
+    "Vecna Eve of Ruin/Public/Characters/Player Characters",
     "Vecna Eve of Ruin/Public/Characters/Vecna.md",
     "Vecna Eve of Ruin/Public/Characters/Sarcelle Malinosh.md",
     "Vecna Eve of Ruin/Public/Characters/Indrina Lamsensettle.md",
+    "Vecna Eve of Ruin/Public/Characters/Umberto Noblin.md",
+    "Vecna Eve of Ruin/Images/UmbertoNoblin.png",
     "Vecna Eve of Ruin/Public/Characters/Eldon Keyward.md",
     "Vecna Eve of Ruin/Public/Sessions Recaps/Session 1 Recap.md",
     "index.md",
     "Pasted image 20241015114521.png",
-    "Vecna Eve of Ruin/Images/UmbertoNoblin.png",
     "Vecna Eve of Ruin/Public/Sessions Recaps",
     "Vecna Eve of Ruin/Private/uwu.md",
     "Vecna Eve of Ruin/Public/Characters",

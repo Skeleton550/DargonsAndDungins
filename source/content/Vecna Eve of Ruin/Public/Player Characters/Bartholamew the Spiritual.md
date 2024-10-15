@@ -1,0 +1,2 @@
+Bartholamew the Spiritual is a Giff with a hatred for cutlery. He uses weapons that none of the other players have seen before which intrigues them.
+[[Vecna]] called Bartholamew a "Brutish Giff" before he got banished into the Shadowfell

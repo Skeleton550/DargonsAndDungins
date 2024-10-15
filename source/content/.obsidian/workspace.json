@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Locations/Neverdeath Catacombs and Graveyard.md",
+                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Locations/Neverdeath Catacombs and Graveyard.md",
+                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Locations/Neverdeath Catacombs and Graveyard.md",
+                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Locations/Neverdeath Catacombs and Graveyard.md"
+                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09c9b1972ad1931c",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "Vecna Eve of Ruin/Images/Vecna&Kas.png",
     "Vecna Eve of Ruin/Public/Locations/Neverwinter.md",
     "Vecna Eve of Ruin/Public/Locations/Neverdeath Catacombs and Graveyard.md",
     "Vecna Eve of Ruin/Public/Characters/Lord Neverember.md",

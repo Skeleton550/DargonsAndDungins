@@ -1,6 +1,6 @@
 The Neverdeath Catacombs is the catacombs near the city of [[Neverwinter]]. Lord Neverember's divination wizards deduced that this was the place where the kidnappers were holding the 4 nobles that were taken.
 
-## Vecnan Cultists\
+## Vecnan Cultists
 Vecnan cultists have occupied this place and are harvesting secrets from the kidnapped nobles to funnel power into Vecna. The cultist occupying this place have turned many parts of it into different rooms, such as a common room and a library that contained valuable books.
 
 ## Waterclock Guild

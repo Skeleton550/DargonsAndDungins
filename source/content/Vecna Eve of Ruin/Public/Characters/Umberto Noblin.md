@@ -9,3 +9,4 @@ To keep his mind off his imprisonment, Umberto spends most of his time after the
 After Rix persuades Umberto to tell the players why he got captured he tells the players that he knows that the cultists of [[Vecna]] are his kidnappers, as he's one of Neverwinter's preeminent experts on Vecna's history.
 
 After disclosing his secret, Umberto could not stop talking about his research on Vecna, further explaining to the players the ancient rivalry between Vecna and Kas.
+![[UmbertoNoblin.png]]

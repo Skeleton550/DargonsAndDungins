@@ -4,3 +4,5 @@ Indrina Lamsensettle is an actor who moves within Neverwinter's highest social c
 
 ## Indrina's Secret 
 Indrina collected information from skilled genealogists and assembled proof that [[Lord Neverember]] isn’t descended from Neverwinter’s great hero, Lord Nasher Alagondar, as he claims. Indrina assumes Lord Neverember wants to silence her for what she’s discovered.
+
+![[IndrinaLamsensettle.png]]

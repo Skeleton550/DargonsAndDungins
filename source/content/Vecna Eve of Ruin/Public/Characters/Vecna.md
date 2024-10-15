@@ -3,7 +3,7 @@
 
 
 # History
-After clashing with the Vecnan cultists in the Neverdeath Mausoleum, Varin recalled some information about The Whispered One.
+After clashing with the Vecnan cultists in the Neverdeath Mausoleum, [[Varin Thorne]] recalled some information about The Whispered One.
 
 Vecna is an Archlich recently ascended into godhood. He is obsessed with the acquisition of secrets, believing that they are the true power to the universe. Hundreds if not thousands of years ago, Vecna met Kas. Kas admired Vecna's sadism and thirst for power, while Vecna valued Kas's ferocity and cruelty. Kas quickly became a high ranking lieutenant and Vecna rewarded him with many gifts such as his immortal vampire body and the infamous Sword of Kas.
 

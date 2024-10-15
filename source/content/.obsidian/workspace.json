@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Sessions Recaps/Session 1 Recap.md",
+                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Sessions Recaps/Session 1 Recap.md",
+                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Sessions Recaps/Session 1 Recap.md",
+                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Sessions Recaps/Session 1 Recap.md"
+                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "09c9b1972ad1931c",
   "lastOpenFiles": [
+    "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
+    "index.md",
+    "Vecna Eve of Ruin/Private/Untitled.md",
+    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 1 Recap.md",
     "Vecna Eve of Ruin/Public/Player Characters/Glimmer.md",
     "Vecna Eve of Ruin/Public/Characters/Eldon Keyward.md",
     "Vecna Eve of Ruin/Public/Characters/Indrina Lamsensettle.md",
@@ -160,7 +164,6 @@
     "Vecna Eve of Ruin/Images/SarcelleMalinosh.png",
     "Vecna Eve of Ruin/Images/UmbertoNoblin.png",
     "Vecna Eve of Ruin/Images/IndrinaLamsensettle.png",
-    "index.md",
     "Vecna Eve of Ruin/Public/Player Characters/Bartholamew the Spiritual.md",
     "Vecna Eve of Ruin/Public/Player Characters/Ferros.md",
     "Vecna Eve of Ruin/Public/Player Characters/Neon.md",
@@ -168,7 +171,6 @@
     "Vecna Eve of Ruin/Public/Player Characters/Varin Thorne.md",
     "Vecna Eve of Ruin/Public/Player Characters",
     "Vecna Eve of Ruin/Public/Characters/Player Characters",
-    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 1 Recap.md",
     "Pasted image 20241015114521.png",
     "Vecna Eve of Ruin/Public/Sessions Recaps",
     "Vecna Eve of Ruin/Private/uwu.md",

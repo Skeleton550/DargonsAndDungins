@@ -11,14 +11,11 @@
             "id": "09c9b1972ad1931c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
-                "viewState": {
-                  "x": 3845.1018659973215,
-                  "y": 192.41390008039104,
-                  "zoom": -1
-                }
+                "file": "Vecna Eve of Ruin/Public/Player Characters/Ferros.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
+                "file": "Vecna Eve of Ruin/Public/Player Characters/Ferros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
+                "file": "Vecna Eve of Ruin/Public/Player Characters/Ferros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vecna Eve of Ruin/Private/Session 2 Prep.canvas"
+                "file": "Vecna Eve of Ruin/Public/Player Characters/Ferros.md"
               }
             }
           }
@@ -152,14 +149,16 @@
   },
   "active": "09c9b1972ad1931c",
   "lastOpenFiles": [
-    "Vecna Eve of Ruin/Public/Characters/Vecna.md",
-    "Vecna Eve of Ruin/Images/Vecna&Kas.png",
+    "Vecna Eve of Ruin/Public/Player Characters/Glimmer.md",
+    "Vecna Eve of Ruin/Public/Player Characters/Ferros.md",
+    "Vecna Eve of Ruin/Public/Player Characters/Bartholamew the Spiritual.md",
     "Vecna Eve of Ruin/Public/Locations/Neverwinter.md",
     "Vecna Eve of Ruin/Public/Locations/Neverdeath Catacombs and Graveyard.md",
+    "Vecna Eve of Ruin/Public/Characters/Vecna.md",
+    "Vecna Eve of Ruin/Public/Characters/Eldon Keyward.md",
+    "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
+    "Vecna Eve of Ruin/Images/Vecna&Kas.png",
     "Vecna Eve of Ruin/Public/Characters/Lord Neverember.md",
-    "Vecna Eve of Ruin/Public/Player Characters/Bartholamew the Spiritual.md",
-    "Vecna Eve of Ruin/Public/Player Characters/Ferros.md",
-    "Vecna Eve of Ruin/Public/Player Characters/Glimmer.md",
     "Vecna Eve of Ruin/Public/Player Characters/Neon.md",
     "Vecna Eve of Ruin/Public/Player Characters/Rix.md",
     "Vecna Eve of Ruin/Public/Player Characters/Varin Thorne.md",
@@ -168,11 +167,9 @@
     "Vecna Eve of Ruin/Public/Locations",
     "Vecna Eve of Ruin/Public/Locations.md",
     "Neon's.md",
-    "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
     "index.md",
     "Vecna Eve of Ruin/Private/Untitled.md",
     "Vecna Eve of Ruin/Public/Sessions Recaps/Session 1 Recap.md",
-    "Vecna Eve of Ruin/Public/Characters/Eldon Keyward.md",
     "Vecna Eve of Ruin/Public/Characters/Indrina Lamsensettle.md",
     "Vecna Eve of Ruin/Public/Characters/Umberto Noblin.md",
     "Vecna Eve of Ruin/Images/EldonKeyward.png",

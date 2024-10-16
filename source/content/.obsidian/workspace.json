@@ -11,11 +11,14 @@
             "id": "09c9b1972ad1931c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md",
-                "mode": "source",
-                "source": false
+                "file": "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
+                "viewState": {
+                  "x": 3845.1018659973215,
+                  "y": 192.41390008039104,
+                  "zoom": -1
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md",
+                "file": "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md",
+                "file": "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md"
+                "file": "Vecna Eve of Ruin/Private/Session 2 Prep.canvas"
               }
             }
           }
@@ -147,8 +150,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "09c9b1972ad1931c",
   "lastOpenFiles": [
+    "Vecna Eve of Ruin/Public/Characters/Vecna.md",
     "Vecna Eve of Ruin/Images/Vecna&Kas.png",
     "Vecna Eve of Ruin/Public/Locations/Neverwinter.md",
     "Vecna Eve of Ruin/Public/Locations/Neverdeath Catacombs and Graveyard.md",
@@ -164,7 +168,6 @@
     "Vecna Eve of Ruin/Public/Locations",
     "Vecna Eve of Ruin/Public/Locations.md",
     "Neon's.md",
-    "Vecna Eve of Ruin/Public/Characters/Vecna.md",
     "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
     "index.md",
     "Vecna Eve of Ruin/Private/Untitled.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Vecna's Memories/8 - Kas betrays Vecna.md",
+                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 330.5
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Vecna's Memories/8 - Kas betrays Vecna.md",
+                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Vecna's Memories/8 - Kas betrays Vecna.md",
+                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Vecna's Memories/8 - Kas betrays Vecna.md"
+                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md"
               }
             }
           }
@@ -149,25 +149,26 @@
   },
   "active": "09c9b1972ad1931c",
   "lastOpenFiles": [
-    "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
-    "Vecna Eve of Ruin/Public/Vecna's Memories/8 - Kas betrays Vecna.md",
+    "Vecna Eve of Ruin/Public/Characters/Umberto Noblin.md",
+    "Vecna Eve of Ruin/Public/Characters/Kas.md",
+    "Vecna Eve of Ruin/Public/Characters/Lord Neverember.md",
+    "Vecna Eve of Ruin/Public/Characters/Mazzel.md",
+    "Vecna Eve of Ruin/Public/Characters/Sarcelle Malinosh.md",
+    "Vecna Eve of Ruin/Public/Characters/The Serpent.md",
+    "Vecna Eve of Ruin/Public/Characters/Vecna.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/7 - Vecna and the Serpent.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/6 - Vecna's Gift to Kas.md",
+    "Vecna Eve of Ruin/Public/Vecna's Memories/8 - Kas betrays Vecna.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/5 - Vecna and Kas Besiege a city.md",
-    "index.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/4 - Vecna and Kas invasion plans.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/3 - Mazzel's Death.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/2 - Vecna torturing someone.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/1 - Bullies.md",
+    "Vecna Eve of Ruin/Public/Locations/Oerth.md",
+    "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
+    "index.md",
     "Vecna Eve of Ruin/Public/Sessions Recaps/Session 2 (Filler session) Recap - 16th October 2024.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories",
-    "Vecna Eve of Ruin/Public/Characters/Umberto Noblin.md",
-    "Vecna Eve of Ruin/Public/Characters/The Serpent.md",
-    "Vecna Eve of Ruin/Public/Characters/Mazzel.md",
-    "Vecna Eve of Ruin/Public/Characters/Vecna.md",
-    "Vecna Eve of Ruin/Public/Characters/Kas.md",
-    "Vecna Eve of Ruin/Public/Characters/Sarcelle Malinosh.md",
-    "Vecna Eve of Ruin/Public/Characters/Lord Neverember.md",
     "Vecna Eve of Ruin/Public/Characters/Indrina Lamsensettle.md",
     "Vecna Eve of Ruin/Public/Characters/Eldon Keyward.md",
     "Vecna Eve of Ruin/Public/Characters/Player Characters/Bartholamew the Spiritual.md",

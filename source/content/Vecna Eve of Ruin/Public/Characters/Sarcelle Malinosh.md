@@ -1,3 +1,7 @@
+---
+aliases:
+  - Sarcelle
+---
 Sarcelle Malinosh is a human wild-magic sorcerer who plumbs the mysteries of the Outer Planes.
 
 Glimmer rudely awoke Sarcelle in her prison cell when the players found her. Upon meeting the players she expressed worry about the recent loss of her spellcasting powers as she was unable to defend herself. 

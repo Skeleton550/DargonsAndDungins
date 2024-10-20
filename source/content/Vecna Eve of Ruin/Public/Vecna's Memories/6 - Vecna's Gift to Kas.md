@@ -1,0 +1,1 @@
+The players stumble into a chamber with the same 2 men conversing yet again. This time the black haired human is kneeling in respect before the half elf. The half elf hands the Lieutenant a potion and states that it will grant him an immortal body and a sword with its own consciousness. The Human graciously accepts the gifts and the memory fades.

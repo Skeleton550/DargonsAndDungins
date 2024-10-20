@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md",
+                "file": "Vecna Eve of Ruin/Public/Characters/The Serpent.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md",
+                "file": "Vecna Eve of Ruin/Public/Characters/The Serpent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md",
+                "file": "Vecna Eve of Ruin/Public/Characters/The Serpent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Characters/Vecna.md"
+                "file": "Vecna Eve of Ruin/Public/Characters/The Serpent.md"
               }
             }
           }
@@ -149,13 +149,14 @@
   },
   "active": "09c9b1972ad1931c",
   "lastOpenFiles": [
+    "Vecna Eve of Ruin/Private/Session 3 Prep.canvas",
+    "Vecna Eve of Ruin/Public/Characters/Vecna.md",
     "Vecna Eve of Ruin/Public/Characters/Umberto Noblin.md",
     "Vecna Eve of Ruin/Public/Characters/Kas.md",
     "Vecna Eve of Ruin/Public/Characters/Lord Neverember.md",
     "Vecna Eve of Ruin/Public/Characters/Mazzel.md",
     "Vecna Eve of Ruin/Public/Characters/Sarcelle Malinosh.md",
     "Vecna Eve of Ruin/Public/Characters/The Serpent.md",
-    "Vecna Eve of Ruin/Public/Characters/Vecna.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/7 - Vecna and the Serpent.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/6 - Vecna's Gift to Kas.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/8 - Kas betrays Vecna.md",
@@ -176,7 +177,6 @@
     "Vecna Eve of Ruin/Public/Characters/Player Characters/Glimmer.md",
     "Vecna Eve of Ruin/Public/Characters/Player Characters/Neon.md",
     "Vecna Eve of Ruin/Public/Characters/Player Characters/Rix.md",
-    "Vecna Eve of Ruin/Public/Characters/Player Characters/Varin Thorne.md",
     "Vecna Eve of Ruin/Images/Vecna&Kas.png",
     "Vecna Eve of Ruin/Public/Locations",
     "Vecna Eve of Ruin/Images/EldonKeyward.png",

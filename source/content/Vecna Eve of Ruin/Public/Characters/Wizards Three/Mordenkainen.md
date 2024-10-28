@@ -1,0 +1,1 @@
+Mordenkainen legendary wizard who has many notable spells. He didn't greet the players outside of a simple grumpy gesture but explained to them the new plan after the Wish spell that [[Alustriel Silverhand]] and [[Tasha]] tried to cast alongside him didn't work. He also gave the party the Chime of Exile.

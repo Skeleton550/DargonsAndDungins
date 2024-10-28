@@ -4,6 +4,6 @@ aliases:
 ---
 Eldon Keyward is a highly knowledgeable scholar who specialises in the Outer Planes
 
-Glimmer rescued Eldon from his imprisonment in ritual room by picking the cages lock that was hanging from the ceiling. He is injured from the fall and the incoming attack from [[Vecna]] and is shunted into the Shadowfell with the players.
+Glimmer rescued Eldon from his imprisonment in ritual room by picking the cages lock that was hanging from the ceiling. He is injured from the fall and the incoming attack from [[Vecna]] and is shunted into the [[Evernight (Shadowfell)|Shadowfell]] with the players.
 
 ![[EldonKeyward.png]]

@@ -1,0 +1,1 @@
+Also known as the City of Doors. Sigil is a place at the centre of the outlands. 

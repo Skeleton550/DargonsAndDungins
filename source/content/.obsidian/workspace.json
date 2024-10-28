@@ -11,6 +11,30 @@
             "id": "053539e1068a32d6",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Vecna Eve of Ruin/Images/Web's Edge+Baldur's Gate/Zhentarim_badge.webp"
+              },
+              "icon": "lucide-image",
+              "title": "Zhentarim_badge"
+            }
+          },
+          {
+            "id": "9e533a1b4acd5418",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Vecna Eve of Ruin/Images/Web's Edge+Baldur's Gate/makubli-khee.png"
+              },
+              "icon": "lucide-image",
+              "title": "makubli-khee"
+            }
+          },
+          {
+            "id": "19df92f18cc3f86f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Vecna Eve of Ruin/Public/Characters/Wizards Three/Tasha.md",
@@ -38,7 +62,8 @@
               "title": "Session 3 Prep"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,36 +205,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "053539e1068a32d6",
+  "active": "19df92f18cc3f86f",
   "lastOpenFiles": [
+    "Vecna Eve of Ruin/Public/Characters/Wizards Three/Mordenkainen.md",
+    "Vecna Eve of Ruin/Public/Characters/Wizards Three/Alustriel Silverhand.md",
+    "Vecna Eve of Ruin/Public/Characters/Wizards Three/Tasha.md",
+    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 3 Recap 23rd October 2024.md",
+    "Vecna Eve of Ruin/Images/Wizards Three/mordenkainen.png",
+    "Vecna Eve of Ruin/Images/Wizards Three/mordenkainen-holding-chime-of-exile.png",
+    "Vecna Eve of Ruin/Images/Wizards Three/tasha.png",
+    "Vecna Eve of Ruin/Images/Wizards Three/The Sanctum Map.jpg",
+    "Vecna Eve of Ruin/Images/Wizards Three/the-wizards-three.jpg",
+    "Vecna Eve of Ruin/Images/Wizards Three/Webs edge.jpg",
+    "Vecna Eve of Ruin/Images/Wizards Three/lady-alustriel-silverhand.png",
+    "Vecna Eve of Ruin/Images/Evernight+Dolindars/Evernight.png",
+    "Vecna Eve of Ruin/Images/Evernight+Dolindars/Kevetta Dolindar.png",
+    "Vecna Eve of Ruin/Images/Evernight+Dolindars/Sangora.png",
+    "Vecna Eve of Ruin/Images/Neverdeath Catacombs",
+    "Vecna Eve of Ruin/Images/Web's Edge+Baldur's Gate",
+    "Vecna Eve of Ruin/Images/Evernight+Dolindars",
+    "Vecna Eve of Ruin/Images/Wizards Three",
     "Vecna Eve of Ruin/Public/Vecna's Memories/8 - Kas betrays Vecna.md",
     "Alustriel.md",
-    "Vecna Eve of Ruin/Public/Characters/Wizards Three/Tasha.md",
-    "Vecna Eve of Ruin/Public/Characters/Wizards Three/Alustriel Silverhand.md",
-    "Vecna Eve of Ruin/Public/Characters/Wizards Three/Mordenkainen.md",
     "().md",
     "index.md",
     "Vecna Eve of Ruin/Public/Characters/Vecna.md",
-    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 3 Recap 23rd October 2024.md",
     "Vecna Eve of Ruin/Public/Characters/Indrina Lamsensettle.md",
     "Vecna Eve of Ruin/Public/Characters/Sarcelle Malinosh.md",
     "Vecna Eve of Ruin/Private/Session 4 Prep.canvas",
     "Vecna Eve of Ruin/Public/Characters/Wizards Three",
     "Vecna Eve of Ruin/Private/Session 3 Prep.canvas",
     "Vecna Eve of Ruin/Public/Sessions Recaps/Recap Table.md",
-    "Vecna Eve of Ruin/Images/Zhentarim_badge.webp",
-    "Vecna Eve of Ruin/Images/torkner-ironteeth.png",
-    "Vecna Eve of Ruin/Images/first-rod-of-seven-parts-piece.png",
-    "Vecna Eve of Ruin/Images/Webs edge.jpg",
-    "Vecna Eve of Ruin/Images/02-02 W0 Webs Edge Map Player Version.jpg",
-    "Vecna Eve of Ruin/Images/ker-arach.png",
-    "Pasted image 20241023113245.png",
-    "Pasted image 20241023112602.png",
-    "Pasted image 20241023110345.png",
     "Vecna Eve of Ruin/Public/Characters/Eldon Keyward.md",
     "Vecna Eve of Ruin/Public/Sessions Recaps/Session 2 (Filler session) Recap - 16th October 2024.md",
     "Vecna Eve of Ruin/Public/Sessions Recaps/Session 1 Recap - 2nd October 2024.md",
-    "Vecna Eve of Ruin/Images/jolera.png",
     "Vecna Eve of Ruin/Public/Characters/Umberto Noblin.md",
     "Vecna Eve of Ruin/Public/Characters/Kas.md",
     "Vecna Eve of Ruin/Public/Characters/Lord Neverember.md",
@@ -220,16 +249,11 @@
     "Vecna Eve of Ruin/Public/Vecna's Memories/5 - Vecna and Kas Besiege a city.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/4 - Vecna and Kas invasion plans.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/3 - Mazzel's Death.md",
-    "Vecna Eve of Ruin/Public/Vecna's Memories/2 - Vecna torturing someone.md",
     "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
     "Vecna Eve of Ruin/Public/Vecna's Memories",
     "Vecna Eve of Ruin/Public/Locations",
     "Vecna Eve of Ruin/Public/Characters/Player Characters",
     "Vecna Eve of Ruin/Public/Characters/Player Characters",
-    "Vecna Eve of Ruin/Public/Sessions Recaps",
-    "Vecna Eve of Ruin/Public/Characters",
-    "Vecna Eve of Ruin/Images",
-    "Vecna Eve of Ruin/Private",
-    "Vecna Eve of Ruin/Public"
+    "Vecna Eve of Ruin/Public/Sessions Recaps"
   ]
 }

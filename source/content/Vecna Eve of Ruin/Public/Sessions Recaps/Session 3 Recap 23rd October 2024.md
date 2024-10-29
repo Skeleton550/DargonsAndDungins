@@ -1,6 +1,8 @@
 The session started with Ferros exploring some ruins in a distant world before approaching a strange obelisk and getting disintegrated, re-appearing with the rest of the party in the Shadowfell equivalent of Neverwinter, Evernight
 
-Varin confronted Neon about him pretending to be a Cleric when he is actually a warlock then the party set off to the corpse market. They were told by a woman called Sangora that she knew the location of a crevice of dusk that would allow the party to escape. She would give this information to players in exchange for a bit of information. 
+Varin confronted Neon about him pretending to be a Cleric when he is actually a warlock then the party set off to the corpse market. Neon soon after dismissed his disguise and was revealed to be a blue tiefling with ram style horns with ornaments and medallions decorating his clothes and body.
+
+They were told by a woman called Sangora that she knew the location of a crevice of dusk that would allow the party to escape. She would give this information to players in exchange for a bit of information. 
 
 Upon reaching the Dolindar Tomb, where the crevice of dusk was located, you got ambushed by 4 vampire spawn that Sangora told about you in good faith that they would keep an eye on the party and help them if they needed help, instead the vampires tried to make a meal out of you.
 

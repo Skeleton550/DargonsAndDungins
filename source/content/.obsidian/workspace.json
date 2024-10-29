@@ -35,14 +35,17 @@
             "id": "19df92f18cc3f86f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Locations/Sigil.md",
-                "mode": "source",
-                "source": false
+                "file": "Vecna Eve of Ruin/Private/Session 4 Prep.canvas",
+                "viewState": {
+                  "x": -2706.1593489160473,
+                  "y": 63.23582601726525,
+                  "zoom": -2.7546589846390854
+                }
               },
-              "icon": "lucide-file",
-              "title": "Sigil"
+              "icon": "lucide-layout-dashboard",
+              "title": "Session 4 Prep"
             }
           },
           {
@@ -207,10 +210,12 @@
   },
   "active": "19df92f18cc3f86f",
   "lastOpenFiles": [
+    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 3 Recap 23rd October 2024.md",
+    "Vecna Eve of Ruin/Private/Session 4 Prep.canvas",
+    "Vecna Eve of Ruin/Public/Locations/Sigil.md",
     "Vecna Eve of Ruin/Public/Locations/Evernight (Shadowfell).md",
     "Vecna Eve of Ruin/Public/Locations/Neverwinter.md",
     "Vecna Eve of Ruin/Public/Locations/Oerth.md",
-    "Vecna Eve of Ruin/Public/Locations/Sigil.md",
     "Vecna Eve of Ruin/Public/Locations/The Sanctum.md",
     "Vecna Eve of Ruin/Public/Characters/Wizards Three/Tasha.md",
     "Vecna Eve of Ruin/Public/Characters/Wizards Three/Mordenkainen.md",
@@ -226,7 +231,6 @@
     "Vecna Eve of Ruin/Public/Characters/Eldon Keyward.md",
     "Vecna Eve of Ruin/Public/Locations/Neverdeath Catacombs and Graveyard.md",
     "Vecna Eve of Ruin/Public/Characters/Vecna.md",
-    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 3 Recap 23rd October 2024.md",
     "Vecna Eve of Ruin/Images/Wizards Three/mordenkainen.png",
     "Vecna Eve of Ruin/Images/Wizards Three/mordenkainen-holding-chime-of-exile.png",
     "Vecna Eve of Ruin/Images/Wizards Three/tasha.png",
@@ -246,10 +250,8 @@
     "().md",
     "index.md",
     "Vecna Eve of Ruin/Public/Characters/Sarcelle Malinosh.md",
-    "Vecna Eve of Ruin/Private/Session 4 Prep.canvas",
     "Vecna Eve of Ruin/Public/Characters/Wizards Three",
     "Vecna Eve of Ruin/Private/Session 3 Prep.canvas",
-    "Vecna Eve of Ruin/Public/Sessions Recaps/Recap Table.md",
     "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
     "Vecna Eve of Ruin/Public/Vecna's Memories",
     "Vecna Eve of Ruin/Public/Locations",

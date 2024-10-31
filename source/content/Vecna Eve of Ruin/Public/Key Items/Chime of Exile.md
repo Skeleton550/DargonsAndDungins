@@ -1,0 +1,1 @@
+This item was given to the players by [[Mordenkainen]] to be used against Vecna when they eventually confront him. 

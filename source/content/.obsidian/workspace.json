@@ -8,65 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "053539e1068a32d6",
+            "id": "0eaebb9279f7ab7a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Vecna Eve of Ruin/Images/Web's Edge+Baldur's Gate/Zhentarim_badge.webp"
+                "file": "Vecna Eve of Ruin/Public/Characters/Player Characters/Rix.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Zhentarim_badge"
-            }
-          },
-          {
-            "id": "9e533a1b4acd5418",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Vecna Eve of Ruin/Images/Web's Edge+Baldur's Gate/makubli-khee.png"
-              },
-              "icon": "lucide-image",
-              "title": "makubli-khee"
-            }
-          },
-          {
-            "id": "19df92f18cc3f86f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Vecna Eve of Ruin/Private/Session 4 Prep.canvas",
-                "viewState": {
-                  "x": -5101.7127910887575,
-                  "y": 1366.9035679408048,
-                  "zoom": -1.7546589846390852
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Session 4 Prep"
-            }
-          },
-          {
-            "id": "b364d871f09c86ab",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Vecna Eve of Ruin/Private/Session 3 Prep.canvas",
-                "viewState": {
-                  "x": -70.07773350119464,
-                  "y": 102.05989372617665,
-                  "zoom": -1.032228841361919
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Session 3 Prep"
+              "icon": "lucide-file",
+              "title": "Rix"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,29 +163,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19df92f18cc3f86f",
+  "active": "0eaebb9279f7ab7a",
   "lastOpenFiles": [
-    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 3 Recap 23rd October 2024.md",
+    "Vecna Eve of Ruin/Public/Characters/Player Characters/Neon.md",
+    "Vecna Eve of Ruin/Public/Characters/Player Characters/Glimmer.md",
+    "Vecna Eve of Ruin/Public/Characters/Player Characters/Ferros.md",
+    "Vecna Eve of Ruin/Public/Characters/Player Characters/Bartholamew the Spiritual.md",
+    "Vecna Eve of Ruin/Public/Characters/Vecna and Others/Mazzel.md",
+    "Vecna Eve of Ruin/Public/Characters/Vecna and Others/The Serpent.md",
+    "Vecna Eve of Ruin/Public/Key Items/Chime of Exile.md",
+    "Vecna Eve of Ruin/Public/Key Items/Rod of Seven Parts.md",
+    "Vecna Eve of Ruin/Public/Locations/Chapter 1/Oerth.md",
+    "Vecna Eve of Ruin/Public/Locations/Chapter 2/Web's Edge.md",
     "Vecna Eve of Ruin/Private/Session 4 Prep.canvas",
-    "Vecna Eve of Ruin/Public/Locations/Sigil.md",
-    "Vecna Eve of Ruin/Public/Locations/Evernight (Shadowfell).md",
-    "Vecna Eve of Ruin/Public/Locations/Neverwinter.md",
-    "Vecna Eve of Ruin/Public/Locations/Oerth.md",
+    "Vecna Eve of Ruin/Private/Session 3 Prep.canvas",
+    "Vecna Eve of Ruin/Public/Locations/Chapter 1/Evernight (Shadowfell).md",
+    "Vecna Eve of Ruin/Public/Locations/Chapter 2",
+    "Vecna Eve of Ruin/Public/Locations/Chapter 1",
+    "Vecna Eve of Ruin/Public/Characters/Wizards Three/Mordenkainen.md",
+    "Vecna Eve of Ruin/Public/Characters/Chapter 1/Umberto Noblin.md",
+    "Vecna Eve of Ruin/Public/Characters/Chapter 1/Sarcelle Malinosh.md",
+    "Vecna Eve of Ruin/Public/Characters/Chapter 1/Lord Neverember.md",
+    "Vecna Eve of Ruin/Public/Characters/Chapter 1/Laerel Silverhand.md",
+    "Vecna Eve of Ruin/Public/Characters/Vecna and Others/Kas.md",
+    "Vecna Eve of Ruin/Public/Characters/Vecna and Others",
+    "Vecna Eve of Ruin/Public/Characters/Vecna and Others/Vecna.md",
+    "Vecna Eve of Ruin/Public/Characters/Chapter 1",
+    "Vecna Eve of Ruin/Public/Characters/Untitled.md",
+    "Vecna Eve of Ruin/Public/Characters/Chapter 1/Indrina Lamsensettle.md",
+    "Vecna Eve of Ruin/Public/Locations/Chapter 1/Neverdeath Catacombs and Graveyard.md",
+    "Vecna Eve of Ruin/Public/Locations/Chapter 1/Neverwinter.md",
+    "Vecna Eve of Ruin/Public/Locations/Chapter 1/Sigil & The Sanctum.md",
     "Vecna Eve of Ruin/Public/Locations/The Sanctum.md",
     "Vecna Eve of Ruin/Public/Characters/Wizards Three/Tasha.md",
-    "Vecna Eve of Ruin/Public/Characters/Wizards Three/Mordenkainen.md",
     "Vecna Eve of Ruin/Public/Characters/Wizards Three/Alustriel Silverhand.md",
-    "Vecna Eve of Ruin/Public/Characters/Player Characters/Varin Thorne.md",
-    "Vecna Eve of Ruin/Public/Characters/Player Characters/Bartholamew the Spiritual.md",
-    "Vecna Eve of Ruin/Public/Characters/Player Characters/Ferros.md",
-    "Vecna Eve of Ruin/Public/Characters/Player Characters/Glimmer.md",
-    "Vecna Eve of Ruin/Public/Characters/Player Characters/Neon.md",
-    "Vecna Eve of Ruin/Public/Characters/Player Characters/Rix.md",
-    "Vecna Eve of Ruin/Public/Characters/Kas.md",
-    "Vecna Eve of Ruin/Public/Characters/Indrina Lamsensettle.md",
-    "Vecna Eve of Ruin/Public/Characters/Eldon Keyward.md",
-    "Vecna Eve of Ruin/Public/Locations/Neverdeath Catacombs and Graveyard.md",
-    "Vecna Eve of Ruin/Public/Characters/Vecna.md",
+    "Vecna Eve of Ruin/Public/Key Items",
     "Vecna Eve of Ruin/Images/Wizards Three/mordenkainen.png",
     "Vecna Eve of Ruin/Images/Wizards Three/mordenkainen-holding-chime-of-exile.png",
     "Vecna Eve of Ruin/Images/Wizards Three/tasha.png",
@@ -245,18 +212,7 @@
     "Vecna Eve of Ruin/Images/Web's Edge+Baldur's Gate",
     "Vecna Eve of Ruin/Images/Evernight+Dolindars",
     "Vecna Eve of Ruin/Images/Wizards Three",
-    "Vecna Eve of Ruin/Public/Vecna's Memories/8 - Kas betrays Vecna.md",
-    "Alustriel.md",
-    "().md",
-    "index.md",
-    "Vecna Eve of Ruin/Public/Characters/Sarcelle Malinosh.md",
     "Vecna Eve of Ruin/Public/Characters/Wizards Three",
-    "Vecna Eve of Ruin/Private/Session 3 Prep.canvas",
-    "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
-    "Vecna Eve of Ruin/Public/Vecna's Memories",
-    "Vecna Eve of Ruin/Public/Locations",
-    "Vecna Eve of Ruin/Public/Characters/Player Characters",
-    "Vecna Eve of Ruin/Public/Characters/Player Characters",
-    "Vecna Eve of Ruin/Public/Sessions Recaps"
+    "Vecna Eve of Ruin/Private/Session 2 Prep.canvas"
   ]
 }

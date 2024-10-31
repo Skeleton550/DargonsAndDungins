@@ -1,1 +1,3 @@
 Tasha is another wizard well known for her power and knowledge of the Abyss. The version of Tasha that the players meet is a younger Tasha from the past still just as powerful but not Tasha the Witch Queen. She is very good friends with [[Alustriel Silverhand|Alustriel]] and came to her aid to stop Vecna immediately without hesitation.
+
+[[Rix]] is a huge fan of Tasha and her works and was in awe when the party came across her and the other wizards.

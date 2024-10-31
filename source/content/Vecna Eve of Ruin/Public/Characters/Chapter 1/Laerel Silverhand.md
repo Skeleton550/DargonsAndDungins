@@ -1,0 +1,1 @@
+Laerel Silverhand, one of the chosen of Mystra and a sister the [[Alustriel Silverhand]], first appeared to arrest [[Lord Neverember]] for his false claim to the throne. She then threw a party for the players before it was interrupted by Neverwinter being invaded by Vecnan cultists.

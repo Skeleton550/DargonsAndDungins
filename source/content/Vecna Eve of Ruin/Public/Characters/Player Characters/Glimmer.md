@@ -2,4 +2,6 @@ Glimmer is a friend of [[Neon]] who travels with him in his adventures. He is a 
 
 Glimmer perished in the Ritual Chamber after rescuing [[Eldon Keyward]] which caused a gigantic necrotic explosion in the Chamber
 
-Glimmer was re-summoned by [[Neon]] after being killed in the ritual chamber and instead of a Tressym he turned out to be a sphynx of wonder
+Glimmer was re-summoned by [[Neon]] after being killed in the ritual chamber and instead of a Tressym he turned out to be a sphinx of wonder.
+
+![[Sphinx of Wonder.jpg]]

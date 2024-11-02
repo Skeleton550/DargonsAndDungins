@@ -11,14 +11,17 @@
             "id": "0eaebb9279f7ab7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Vecna's Memories/Memory Table.md",
-                "mode": "source",
-                "source": false
+                "file": "Vecna Eve of Ruin/Private/Session 5 Prep.canvas",
+                "viewState": {
+                  "x": 11192.120642957343,
+                  "y": 1280.4626798640734,
+                  "zoom": -4
+                }
               },
-              "icon": "lucide-file",
-              "title": "Memory Table"
+              "icon": "lucide-layout-dashboard",
+              "title": "Session 5 Prep"
             }
           }
         ]
@@ -165,6 +168,19 @@
   },
   "active": "0eaebb9279f7ab7a",
   "lastOpenFiles": [
+    "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/03-006.captain-inda-malayuri.png",
+    "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/03-005.redbud.png",
+    "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/03-008.cirit.png",
+    "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/03-004.figaro.png",
+    "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/03-003.lysan-and-zastra.png",
+    "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/03-010.ilren.png",
+    "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/Spelljammer-4e.jpg",
+    "Vecna Eve of Ruin/Private/Session 5 Prep.canvas",
+    "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage",
+    "Vecna Eve of Ruin/Private/Session 4 Prep.canvas",
+    "Vecna Eve of Ruin/Private/Session 5 Prep.md",
+    "Vecna Eve of Ruin/Private/Session 3 Prep.canvas",
+    "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
     "Vecna Eve of Ruin/Public/Vecna's Memories/Memory Table.md",
     "Vecna Eve of Ruin/Public/Locations/Chapter 1/Evernight and the Dolindar Tomb.md",
     "Vecna Eve of Ruin/Public/Locations/Chapter 1/Neverdeath Catacombs and Graveyard.md",
@@ -185,8 +201,6 @@
     "Vecna Eve of Ruin/Public/Characters/Vecna and Others/The Serpent.md",
     "Vecna Eve of Ruin/Public/Key Items/Chime of Exile.md",
     "Vecna Eve of Ruin/Public/Key Items/Rod of Seven Parts.md",
-    "Vecna Eve of Ruin/Private/Session 4 Prep.canvas",
-    "Vecna Eve of Ruin/Private/Session 3 Prep.canvas",
     "Vecna Eve of Ruin/Public/Locations/Chapter 2",
     "Vecna Eve of Ruin/Public/Locations/Chapter 1",
     "Vecna Eve of Ruin/Public/Characters/Wizards Three/Mordenkainen.md",
@@ -197,22 +211,12 @@
     "Vecna Eve of Ruin/Public/Characters/Vecna and Others/Kas.md",
     "Vecna Eve of Ruin/Public/Characters/Vecna and Others",
     "Vecna Eve of Ruin/Public/Characters/Chapter 1",
-    "Vecna Eve of Ruin/Public/Characters/Untitled.md",
-    "Vecna Eve of Ruin/Public/Characters/Chapter 1/Indrina Lamsensettle.md",
     "Vecna Eve of Ruin/Public/Key Items",
     "Vecna Eve of Ruin/Images/Wizards Three/mordenkainen.png",
     "Vecna Eve of Ruin/Images/Wizards Three/mordenkainen-holding-chime-of-exile.png",
     "Vecna Eve of Ruin/Images/Wizards Three/tasha.png",
-    "Vecna Eve of Ruin/Images/Wizards Three/The Sanctum Map.jpg",
-    "Vecna Eve of Ruin/Images/Wizards Three/the-wizards-three.jpg",
-    "Vecna Eve of Ruin/Images/Wizards Three/Webs edge.jpg",
-    "Vecna Eve of Ruin/Images/Wizards Three/lady-alustriel-silverhand.png",
-    "Vecna Eve of Ruin/Images/Evernight+Dolindars/Evernight.png",
-    "Vecna Eve of Ruin/Images/Evernight+Dolindars/Kevetta Dolindar.png",
     "Vecna Eve of Ruin/Images/Neverdeath Catacombs",
     "Vecna Eve of Ruin/Images/Web's Edge+Baldur's Gate",
-    "Vecna Eve of Ruin/Images/Evernight+Dolindars",
-    "Vecna Eve of Ruin/Images/Wizards Three",
-    "Vecna Eve of Ruin/Private/Session 2 Prep.canvas"
+    "Vecna Eve of Ruin/Images/Evernight+Dolindars"
   ]
 }

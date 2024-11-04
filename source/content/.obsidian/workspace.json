@@ -11,17 +11,14 @@
             "id": "0eaebb9279f7ab7a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Vecna Eve of Ruin/Private/Session 5 Prep.canvas",
-                "viewState": {
-                  "x": -505.05991374002883,
-                  "y": 3726.507270371753,
-                  "zoom": -1.1102230246251565e-16
-                }
+                "file": "Vecna Eve of Ruin/Public/Sessions Recaps/Session 1 Recap - 2nd October 2024.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Session 5 Prep"
+              "icon": "lucide-file",
+              "title": "Session 1 Recap - 2nd October 2024"
             }
           }
         ]
@@ -168,6 +165,10 @@
   },
   "active": "0eaebb9279f7ab7a",
   "lastOpenFiles": [
+    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 2 (Filler session) Recap - 16th October 2024.md",
+    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 3 Recap 23rd October 2024.md",
+    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 4 Recap - 29th October 2024.md",
+    "Vecna Eve of Ruin/Private/Session 5 Prep.canvas",
     "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/03-006.captain-inda-malayuri.png",
     "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/03-005.redbud.png",
     "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/03-008.cirit.png",
@@ -175,7 +176,6 @@
     "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/03-003.lysan-and-zastra.png",
     "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/03-010.ilren.png",
     "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/Spelljammer-4e.jpg",
-    "Vecna Eve of Ruin/Private/Session 5 Prep.canvas",
     "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage",
     "Vecna Eve of Ruin/Private/Session 4 Prep.canvas",
     "Vecna Eve of Ruin/Private/Session 5 Prep.md",
@@ -207,14 +207,11 @@
     "Vecna Eve of Ruin/Public/Characters/Chapter 1/Umberto Noblin.md",
     "Vecna Eve of Ruin/Public/Characters/Chapter 1/Sarcelle Malinosh.md",
     "Vecna Eve of Ruin/Public/Characters/Chapter 1/Lord Neverember.md",
-    "Vecna Eve of Ruin/Public/Characters/Chapter 1/Laerel Silverhand.md",
-    "Vecna Eve of Ruin/Public/Characters/Vecna and Others/Kas.md",
     "Vecna Eve of Ruin/Public/Characters/Vecna and Others",
     "Vecna Eve of Ruin/Public/Characters/Chapter 1",
     "Vecna Eve of Ruin/Public/Key Items",
     "Vecna Eve of Ruin/Images/Wizards Three/mordenkainen.png",
     "Vecna Eve of Ruin/Images/Wizards Three/mordenkainen-holding-chime-of-exile.png",
-    "Vecna Eve of Ruin/Images/Wizards Three/tasha.png",
     "Vecna Eve of Ruin/Images/Neverdeath Catacombs",
     "Vecna Eve of Ruin/Images/Web's Edge+Baldur's Gate",
     "Vecna Eve of Ruin/Images/Evernight+Dolindars"

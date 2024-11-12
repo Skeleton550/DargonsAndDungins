@@ -1,0 +1,1 @@
+Celestian is the God of stars, space and wanderers and revealed himself to the party after [[Astrophel]] was slain by them

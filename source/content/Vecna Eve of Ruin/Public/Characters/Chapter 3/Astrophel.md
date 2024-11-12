@@ -1,0 +1,1 @@
+Astrophel was a dragon absorbing the power of the God [[Celestian]], the god of stars, space and wanderers. [[Neon]] did not side with him and instead fought him and killed him freeing Celestian from his absorption powers.

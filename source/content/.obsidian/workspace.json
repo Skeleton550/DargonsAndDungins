@@ -11,17 +11,48 @@
             "id": "0eaebb9279f7ab7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "6d8302330a6426d8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
               "state": {
-                "file": "Vecna Eve of Ruin/Public/Vecna's Memories/4 - Vecna and Kas invasion plans.md",
-                "mode": "source",
-                "source": false
+                "file": "Vecna Eve of Ruin/Private/Session 5 and 6 Prep.canvas",
+                "viewState": {
+                  "x": 254.92675781646847,
+                  "y": 196.35862336138302,
+                  "zoom": -0.9999999999999996
+                }
               },
-              "icon": "lucide-file",
-              "title": "4 - Vecna and Kas invasion plans"
+              "icon": "lucide-layout-dashboard",
+              "title": "Session 5 and 6 Prep"
+            }
+          },
+          {
+            "id": "f9d04ac33da45bd8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Vecna Eve of Ruin/Private/Session 7 Prep.canvas",
+                "viewState": {
+                  "x": 21475.73756372908,
+                  "y": 3797.9092137574335,
+                  "zoom": -1.666666666666666
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Session 7 Prep"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,19 +194,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0eaebb9279f7ab7a",
+  "active": "f9d04ac33da45bd8",
   "lastOpenFiles": [
+    "Vecna Eve of Ruin/Images/The Ruined Colossus/04-009.emerald-elemental-gem.png",
+    "Vecna Eve of Ruin/Images/The Ruined Colossus/04-012.landro.png",
+    "Vecna Eve of Ruin/Images/The Ruined Colossus/04-008.graymatter-engine.png",
+    "04-007.glaive-and-subordinates.png",
+    "Vecna Eve of Ruin/Images/The Ruined Colossus/04-010.filch.png",
+    "Vecna Eve of Ruin/Images/The Ruined Colossus/4.02-ialos.jpg",
+    "Vecna Eve of Ruin/Images/The Ruined Colossus/04-013.mercy.png",
+    "Vecna Eve of Ruin/Images/The Ruined Colossus/04-003.mount-ironrot.png",
+    "Vecna Eve of Ruin/Images/The Ruined Colossus/04-011.kalyth.png",
+    "Vecna Eve of Ruin/Images/The Ruined Colossus",
+    "Vecna Eve of Ruin/Private/Session 7 Prep.canvas",
+    "Vecna Eve of Ruin/Private/Untitled.md",
+    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 5 Recap - 4th November 2024.md",
+    "Vecna Eve of Ruin/Private/Session 5 and 6 Prep.canvas",
+    "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/03-007.hertilod.png",
+    "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/03-009.daveras.png",
+    "Vecna Eve of Ruin/Public/Characters/Chapter 3/Celestian.md",
+    "Vecna Eve of Ruin/Public/Vecna's Memories/4 - Vecna and Kas invasion plans.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/5 - Vecna and Kas Besiege a city.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/6 - Vecna's Gift to Kas.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/7 - Vecna and the Serpent.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/8 - Kas betrays Vecna.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/Memory Table.md",
-    "Vecna Eve of Ruin/Public/Vecna's Memories/4 - Vecna and Kas invasion plans.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/3 - Mazzel's Death.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/2 - Vecna torturing someone.md",
     "Vecna Eve of Ruin/Public/Vecna's Memories/1 - Bullies.md",
     "Vecna Eve of Ruin/Public/Sessions Recaps/Recap Table.md",
-    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 5 Recap - 4th November 2024.md",
     "Vecna Eve of Ruin/Public/Sessions Recaps/Session 4 Recap - 29th October 2024.md",
     "Vecna Eve of Ruin/Public/Sessions Recaps/Session 1 Recap - 2nd October 2024.md",
     "Vecna Eve of Ruin/Public/Locations/Chapter 1/Oerth.md",
@@ -188,32 +235,17 @@
     "Vecna Eve of Ruin/Public/Groups and Organisations/Athar.md",
     "Vecna Eve of Ruin/Public/Characters/Player Characters/Neon.md",
     "Vecna Eve of Ruin/Public/Characters/Player Characters/Rix.md",
-    "Vecna Eve of Ruin/Public/Characters/Chapter 3/Celestian.md",
-    "Vecna Eve of Ruin/Public/Characters/Chapter 3/Astrophel.md",
-    "Vecna Eve of Ruin/Images/Vecna&Kas.png",
-    "Vecna Eve of Ruin/Private/Session 5 and 6 Prep.canvas",
     "Vecna Eve of Ruin/Public/Secrets",
     "Vecna Eve of Ruin/Public/Groups and Organisations",
     "Vecna Eve of Ruin/Public/Characters/Chapter 2",
     "Vecna Eve of Ruin/Public/Characters/Chapter 3",
-    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 2 (Filler session) Recap - 16th October 2024.md",
-    "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/03-006.captain-inda-malayuri.png",
-    "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/03-005.redbud.png",
-    "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/03-008.cirit.png",
-    "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/03-004.figaro.png",
-    "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/03-003.lysan-and-zastra.png",
-    "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/03-010.ilren.png",
-    "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage/Spelljammer-4e.jpg",
     "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage",
     "Vecna Eve of Ruin/Private/Session 4 Prep.canvas",
     "Vecna Eve of Ruin/Private/Session 3 Prep.canvas",
     "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
-    "Vecna Eve of Ruin/Images/Players/Sphinx of Wonder.jpg",
     "Vecna Eve of Ruin/Images/Players",
     "Vecna Eve of Ruin/Public/Locations/Chapter 2",
     "Vecna Eve of Ruin/Public/Locations/Chapter 1",
-    "Vecna Eve of Ruin/Public/Characters/Vecna and Others",
-    "Vecna Eve of Ruin/Public/Characters/Chapter 1",
-    "Vecna Eve of Ruin/Images/Wizards Three/mordenkainen.png"
+    "Vecna Eve of Ruin/Public/Characters/Vecna and Others"
   ]
 }

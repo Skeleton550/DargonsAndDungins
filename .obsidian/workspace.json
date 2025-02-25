@@ -25,14 +25,17 @@
             "id": "9968b8f5985cba49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 7 Recap - 2nd December 2024.md",
-                "mode": "source",
-                "source": false
+                "file": "content/Vecna Eve of Ruin/Private/Session 8 Prep.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 365,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Session 7 Recap - 2nd December 2024"
+              "icon": "lucide-layout-dashboard",
+              "title": "Session 8 Prep"
             }
           },
           {
@@ -195,10 +198,10 @@
   },
   "active": "9968b8f5985cba49",
   "lastOpenFiles": [
+    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 7 Recap - 2nd December 2024.md",
     "content/Vecna Eve of Ruin/Private/Session 7 Prep.canvas",
     "content/Vecna Eve of Ruin/Private/Session 8 Prep.canvas",
     "content/Vecna Eve of Ruin/Private/Session 5 and 6 Prep.canvas",
-    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 7 Recap - 2nd December 2024.md",
     "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 6 Recap - 20th November 2024.md",
     "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 5 Recap - 4th November 2024.md",
     "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 4 Recap - 29th October 2024.md",

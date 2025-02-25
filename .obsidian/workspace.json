@@ -11,17 +11,24 @@
             "id": "044fb8eb1ad707ba",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "content/Vecna Eve of Ruin/Private/Session 7 Prep.canvas",
-                "viewState": {
-                  "x": 937.3844166338017,
-                  "y": 3651.940833191696,
-                  "zoom": -0.6666666666666663
-                }
+                "file": "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 7 Recap - 2nd December 2024.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Session 7 Prep"
+              "icon": "lucide-file",
+              "title": "Session 7 Recap - 2nd December 2024"
+            }
+          },
+          {
+            "id": "9968b8f5985cba49",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -38,7 +45,8 @@
               "title": "Session 7 Recap - 2nd December 2024"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +65,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -110,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Vecna Eve of Ruin/Private/Session 7 Prep.canvas",
+                "file": "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 7 Recap - 2nd December 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 7 Prep"
+              "title": "Backlinks for Session 7 Recap - 2nd December 2024"
             }
           },
           {
@@ -129,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Vecna Eve of Ruin/Private/Session 7 Prep.canvas",
+                "file": "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 7 Recap - 2nd December 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 7 Prep"
+              "title": "Outgoing links from Session 7 Recap - 2nd December 2024"
             }
           },
           {
@@ -156,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Vecna Eve of Ruin/Private/Session 7 Prep.canvas"
+                "file": "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 7 Recap - 2nd December 2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 7 Prep"
+              "title": "Outline of Session 7 Recap - 2nd December 2024"
             }
           }
         ]
@@ -176,20 +185,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "044fb8eb1ad707ba",
+  "active": "b81803f496b2cde7",
   "lastOpenFiles": [
-    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 7 Recap - 2nd December 2024.md",
+    "content/Vecna Eve of Ruin/Private/Session 5 and 6 Prep.canvas",
     "content/Vecna Eve of Ruin/Private/Session 7 Prep.canvas",
-    "content/Vecna Eve of Ruin/Private/Session 8 Prep.canvas",
-    "content/Vecna Eve of Ruin/Public/Vecna's Memories/Memory Table.md",
+    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 7 Recap - 2nd December 2024.md",
     "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 6 Recap - 20th November 2024.md",
     "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 5 Recap - 4th November 2024.md",
+    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 4 Recap - 29th October 2024.md",
+    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 3 Recap 23rd October 2024.md",
+    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 2 (Filler session) Recap - 16th October 2024.md",
+    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 1 Recap - 2nd October 2024.md",
+    "content/Vecna Eve of Ruin/Private/Session 8 Prep.canvas",
+    "content/Vecna Eve of Ruin/Public/Vecna's Memories/Memory Table.md",
     "content/Vecna Eve of Ruin/Public/Sessions Recaps/Recap Table.md",
     "content/Vecna Eve of Ruin/Private/Session 8 Prep.md",
-    "content/Vecna Eve of Ruin/Private/Session 5 and 6 Prep.canvas",
     "content/Vecna Eve of Ruin/Images/The Ruined Colossus/04-007.glaive-and-subordinates.png",
     "README.md"
   ]

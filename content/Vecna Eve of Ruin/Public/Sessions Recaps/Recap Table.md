@@ -7,3 +7,8 @@
 [[Session 4 Recap - 29th October 2024]]
 
 [[Session 5 Recap - 4th November 2024]]
+
+[[Session 6 Recap - 20th November 2024]]
+
+[[Session 7 Recap - 2nd December 2024]]
+

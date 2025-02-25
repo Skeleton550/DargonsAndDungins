@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "34bfe29fb2b7b313",
+    "type": "split",
+    "children": [
+      {
+        "id": "5782bc098f2b465a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "044fb8eb1ad707ba",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "content/Vecna Eve of Ruin/Private/Session 7 Prep.canvas",
+                "viewState": {
+                  "x": 1481.862977458894,
+                  "y": 3621.7802132043007,
+                  "zoom": -0.6666666666666663
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Session 7 Prep"
+            }
+          },
+          {
+            "id": "fd00604b8c1811d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 7 Recap - 2nd December 2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 7 Recap - 2nd December 2024"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22e42afbadaab635",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa2481cfe0ba3953",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b81803f496b2cde7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4a45128ef26c6e9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0001e5f29fe7b417",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "261f06795ebd1f52",
+    "type": "split",
+    "children": [
+      {
+        "id": "37780f801e2e3f38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0222d7c0e5959a2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/Vecna Eve of Ruin/Private/Session 7 Prep.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session 7 Prep"
+            }
+          },
+          {
+            "id": "37f8eaf9ea80270e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/Vecna Eve of Ruin/Private/Session 7 Prep.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Session 7 Prep"
+            }
+          },
+          {
+            "id": "55ac1375d0ae6f71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d0b4eef7db50d9de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/Vecna Eve of Ruin/Private/Session 7 Prep.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session 7 Prep"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "044fb8eb1ad707ba",
+  "lastOpenFiles": [
+    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 7 Recap - 2nd December 2024.md",
+    "content/Vecna Eve of Ruin/Private/Session 7 Prep.canvas",
+    "content/Vecna Eve of Ruin/Private/Session 8 Prep.canvas",
+    "content/Vecna Eve of Ruin/Public/Vecna's Memories/Memory Table.md",
+    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 6 Recap - 20th November 2024.md",
+    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 5 Recap - 4th November 2024.md",
+    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Recap Table.md",
+    "content/Vecna Eve of Ruin/Private/Session 8 Prep.md",
+    "content/Vecna Eve of Ruin/Private/Session 5 and 6 Prep.canvas",
+    "content/Vecna Eve of Ruin/Images/The Ruined Colossus/04-007.glaive-and-subordinates.png",
+    "README.md"
+  ]
+}

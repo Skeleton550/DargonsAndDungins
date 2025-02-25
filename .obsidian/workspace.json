@@ -11,31 +11,10 @@
             "id": "044fb8eb1ad707ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 7 Recap - 2nd December 2024.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Session 7 Recap - 2nd December 2024"
-            }
-          },
-          {
-            "id": "9968b8f5985cba49",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "content/Vecna Eve of Ruin/Private/Session 8 Prep.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 365,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Session 8 Prep"
+              "title": "New tab"
             }
           },
           {
@@ -52,8 +31,7 @@
               "title": "Session 7 Recap - 2nd December 2024"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,22 +174,62 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9968b8f5985cba49",
+  "active": "b81803f496b2cde7",
   "lastOpenFiles": [
-    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 7 Recap - 2nd December 2024.md",
+    "source/content/Vecna Eve of Ruin/Public/Locations/Chapter 2/Web's Edge.md",
+    "source/content/Vecna Eve of Ruin/Public/Locations/Chapter 1/Oerth.md",
+    "source/content/Vecna Eve of Ruin/Public/Locations/Chapter 1/Sigil & The Sanctum.md",
+    "source/content/Vecna Eve of Ruin/Public/Locations/Chapter 2/Baldurs Gate.md",
+    "source/content/Vecna Eve of Ruin/Public/Locations/Chapter 1/Neverwinter.md",
+    "source/content/Vecna Eve of Ruin/Public/Locations/Chapter 1/Neverdeath Catacombs and Graveyard.md",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Wizards Three/Tasha.md",
+    "source/content/Vecna Eve of Ruin/Public/Locations/Chapter 1/Evernight and the Dolindar Tomb.md",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Wizards Three/Mordenkainen.md",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Wizards Three/Alustriel Silverhand.md",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Vecna and Others/Kas.md",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Vecna and Others/Vecna.md",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Vecna and Others/Mazzel.md",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Vecna and Others/The Serpent.md",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Chapter 3/Celestian.md",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Chapter 3/Astrophel.md",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Player Characters/Varin Thorne.md",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Player Characters/Rix.md",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Player Characters/Neon.md",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Player Characters/Glimmer.md",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Player Characters/Ferros.md",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Player Characters/Bartholamew the Spiritual.md",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Chapter 1/Umberto Noblin.md",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Chapter 1/Sarcelle Malinosh.md",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Chapter 1/Eldon Keyward.md",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Chapter 1/Lord Neverember.md",
+    "source/content/Vecna Eve of Ruin/Public/Locations/Chapter 2",
+    "source/content/Vecna Eve of Ruin/Public/Locations/Chapter 1",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Wizards Three",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Vecna and Others",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Chapter 3",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Player Characters",
+    "source/content/Vecna Eve of Ruin/Public/Characters/Chapter 1",
+    "source/content/Vecna Eve of Ruin/Images/Web's Edge+Baldur's Gate/Zhentarim_badge.webp",
+    "source/content/Vecna Eve of Ruin/Images/Web's Edge+Baldur's Gate/torkner-ironteeth.png",
+    "source/content/Vecna Eve of Ruin/Images/Web's Edge+Baldur's Gate/ker-arach.png",
+    "source/content/Vecna Eve of Ruin/Images/Web's Edge+Baldur's Gate/Webs edge.jpg",
+    "source/content/Vecna Eve of Ruin/Images/Web's Edge+Baldur's Gate/makubli-khee.png",
+    "source/content/Vecna Eve of Ruin/Images/Web's Edge+Baldur's Gate/Lolth-cultist.png",
+    "source/content/Vecna Eve of Ruin/Images/Web's Edge+Baldur's Gate/jolera.png",
+    "source/content/Vecna Eve of Ruin/Images/Web's Edge+Baldur's Gate/glabrezu.png",
+    "source/content/Vecna Eve of Ruin/Images/Wizards Three/Webs edge.jpg",
+    "source/content/Vecna Eve of Ruin/Images/Web's Edge+Baldur's Gate/first-rod-of-seven-parts-piece.png",
+    "source/content/Vecna Eve of Ruin/Public/Vecna's Memories",
+    "source/content/Vecna Eve of Ruin/Public/Sessions Recaps",
+    "source/content/Vecna Eve of Ruin/Public/Locations",
+    "source/content/Vecna Eve of Ruin/Private/Session 8 Prep.canvas",
+    "source/content/Vecna Eve of Ruin/Private/Session 7 Prep.canvas",
+    "source/content/Vecna Eve of Ruin/Private/Session 5 and 6 Prep.canvas",
+    "source/content/Vecna Eve of Ruin/Private/Session 4 Prep.canvas",
+    "source/content/Vecna Eve of Ruin/Private/Session 3 Prep.canvas",
+    "source/content/Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
     "content/Vecna Eve of Ruin/Private/Session 7 Prep.canvas",
     "content/Vecna Eve of Ruin/Private/Session 8 Prep.canvas",
-    "content/Vecna Eve of Ruin/Private/Session 5 and 6 Prep.canvas",
-    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 6 Recap - 20th November 2024.md",
-    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 5 Recap - 4th November 2024.md",
-    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 4 Recap - 29th October 2024.md",
-    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 3 Recap 23rd October 2024.md",
-    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 2 (Filler session) Recap - 16th October 2024.md",
-    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Session 1 Recap - 2nd October 2024.md",
-    "content/Vecna Eve of Ruin/Public/Vecna's Memories/Memory Table.md",
-    "content/Vecna Eve of Ruin/Public/Sessions Recaps/Recap Table.md",
-    "content/Vecna Eve of Ruin/Private/Session 8 Prep.md",
-    "content/Vecna Eve of Ruin/Images/The Ruined Colossus/04-007.glaive-and-subordinates.png",
-    "README.md"
+    "content/Vecna Eve of Ruin/Private/Session 5 and 6 Prep.canvas"
   ]
 }

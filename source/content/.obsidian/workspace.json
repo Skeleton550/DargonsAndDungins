@@ -13,18 +13,36 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Vecna Eve of Ruin/Private/Session 8 Prep.canvas",
+                "file": "Vecna Eve of Ruin/Private/Session 8 and 9 Prep.canvas",
                 "viewState": {
-                  "x": 3445.210836044936,
-                  "y": 6802.436637395268,
-                  "zoom": -2.3333333333333326
+                  "x": 9765.321878952824,
+                  "y": 7335.94503468319,
+                  "zoom": -1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Session 8 Prep"
+              "title": "Session 8 and 9 Prep"
+            }
+          },
+          {
+            "id": "e508168adc7f7be2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Vecna Eve of Ruin/Private/Session 8 and 9 Prep.canvas",
+                "viewState": {
+                  "x": 4724.146802793886,
+                  "y": 8298.637760317615,
+                  "zoom": -1.3333333333333333
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Session 8 and 9 Prep"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,18 +185,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1045c95e4d16ece0",
+  "active": "e508168adc7f7be2",
   "lastOpenFiles": [
-    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 7 Recap - 2nd December 2024.md",
-    "Vecna Eve of Ruin/Private/Session 8 Prep.canvas",
-    "Vecna Eve of Ruin/Images/Barovia/05-007.death-house-reliquary.png",
+    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 8 Recap - 27th February 2025.md",
+    "Vecna Eve of Ruin/Private/Session 8 and 9 Prep.canvas",
+    "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
+    "Vecna Eve of Ruin/Private/Session 3 Prep.canvas",
     "Vecna Eve of Ruin/Public/Sessions Recaps/Recap Table.md",
+    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 7 Recap - 2nd December 2024.md",
+    "Vecna Eve of Ruin/Images/Barovia/05-007.death-house-reliquary.png",
     "Vecna Eve of Ruin/Public/Sessions Recaps/Session 1 Recap - 2nd October 2024.md",
     "Vecna Eve of Ruin/Private/Session 7 Prep.canvas",
     "Vecna Eve of Ruin/Private/Session 5 and 6 Prep.canvas",
     "Vecna Eve of Ruin/Private/Session 4 Prep.canvas",
-    "Vecna Eve of Ruin/Private/Session 3 Prep.canvas",
-    "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
     "Vecna Eve of Ruin/Images/Web's Edge and Baldur's Gate/first-rod-of-seven-parts-piece.png",
     "Vecna Eve of Ruin/Images/Wizards Three/Webs edge.jpg",
     "Vecna Eve of Ruin/Images/Wizards Three/the-wizards-three.jpg",
@@ -211,7 +230,6 @@
     "Vecna Eve of Ruin/Public/Locations/Chapter 1/Sigil & The Sanctum.md",
     "Vecna Eve of Ruin/Public/Locations/Chapter 2/Baldurs Gate.md",
     "Vecna Eve of Ruin/Public/Locations/Chapter 2/Web's Edge.md",
-    "Vecna Eve of Ruin/Public/Groups and Organisations/Athar.md",
     "Vecna Eve of Ruin/Public/Secrets",
     "Vecna Eve of Ruin/Public/Groups and Organisations",
     "Vecna Eve of Ruin/Public/Characters/Chapter 2",

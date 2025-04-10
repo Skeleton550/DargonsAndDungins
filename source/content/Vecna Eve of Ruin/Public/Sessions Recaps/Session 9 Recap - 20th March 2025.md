@@ -1,0 +1,5 @@
+Carrying on in the Death, you explored the rest of it before heading back to the basement to confront the ritualists. Interrupting the ritual a Relentless Impaler was formed from the blood of the house maid. Once defeated, you removed the ceramic item from the chest of the maid, to prevent another Relentless Impaler from spawning. The ceramic item turned out to be another piece of The Rod of Seven Parts. 
+
+At this point a cold chill ran through the Death House and you began experiencing puzzles in haunted zones that upon failure caused exhaustion and various other negative side effects. Once passing through 8 haunted zones, you eventually got outside where a crowd of bats formed around everyone as Strahd then challenged the party.
+
+Immediately on his turn he used Power Word: Kill on Ferros, immediately downing him and then using Time Ravage on Neon almost doing the same. Ferros and Neon then heard mumblings from a voice promising them power beyond their imagination. Ferros succumbed to the power, and attuned to the Eye and Hand of Vecna. He then immediately killed Strahd sending him back to Castle Ravenloft.

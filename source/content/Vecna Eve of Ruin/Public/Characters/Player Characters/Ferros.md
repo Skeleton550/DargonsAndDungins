@@ -1,1 +1,1 @@
-Ferros is a Warforged eldritch knight originally from Eberron. He was caught up in some magic obelisk and was transported to the Shadowfell where he met everyone else.
+Ferros is a Warforged eldritch knight originally from Eberron. He was caught up in some magic obelisk and was transported to the Shadowfell where he met everyone else. 

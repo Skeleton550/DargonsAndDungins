@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Vecna Eve of Ruin/Private/Session 10 Prep.canvas",
+                "file": "Vecna Eve of Ruin/Private/Session 11 Prep.canvas",
                 "viewState": {
-                  "x": 4825.895515760065,
-                  "y": 6739.425737508295,
-                  "zoom": -0.6666666666666667
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Session 10 Prep"
+              "title": "Session 11 Prep"
             }
           }
         ]
@@ -169,13 +169,15 @@
   },
   "active": "1045c95e4d16ece0",
   "lastOpenFiles": [
-    "Vecna Eve of Ruin/Private/Untitled.md",
+    "Vecna Eve of Ruin/Private/S.md",
+    "Vecna Eve of Ruin/Private/Session 11 Prep.canvas",
     "Vecna Eve of Ruin/Private/Session 10 Prep.canvas",
-    "Vecna Eve of Ruin/Private/Session 8 and 9 Prep.canvas",
     "Vecna Eve of Ruin/Public/Sessions Recaps/Session 9 Recap - 20th March 2025.md",
     "Vecna Eve of Ruin/Public/Sessions Recaps/Recap Table.md",
-    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 8 Recap - 27th February 2025.md",
+    "Vecna Eve of Ruin/Public/Vecna's Memories/1 - Bullies.md",
     "Pasted image 20250226170222.png",
+    "Vecna Eve of Ruin/Private/Session 8 and 9 Prep.canvas",
+    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 8 Recap - 27th February 2025.md",
     "Vecna Eve of Ruin/Private/Session 5 and 6 Prep.canvas",
     "Vecna Eve of Ruin/Private/Session 7 Prep.canvas",
     "Vecna Eve of Ruin/Public/Sessions Recaps/Session 7 Recap - 2nd December 2024.md",
@@ -193,7 +195,6 @@
     "Vecna Eve of Ruin/Images/Wizards Three/mordenkainen.png",
     "Vecna Eve of Ruin/Images/Wizards Three/lady-alustriel-silverhand.png",
     "Vecna Eve of Ruin/Images/Web's Edge and Baldur's Gate/Lolth-cultist.png",
-    "Vecna Eve of Ruin/Public/Vecna's Memories/1 - Bullies.md",
     "Vecna Eve of Ruin/Public/Key Items/Rod of Seven Parts.md",
     "Vecna Eve of Ruin/Public/Key Items/Chime of Exile.md",
     "Vecna Eve of Ruin/Public/Characters/Wizards Three/Tasha.md",

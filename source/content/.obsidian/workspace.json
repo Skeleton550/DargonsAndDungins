@@ -8,23 +8,62 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1045c95e4d16ece0",
+            "id": "5fcb5cd8d6a2826b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "60d7643168eb62b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "1762be4a1e1922ca",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Vecna Eve of Ruin/Private/Session 11 Prep.canvas",
                 "viewState": {
-                  "x": 36545.45699504418,
-                  "y": 559.809551257973,
-                  "zoom": -1.9999999999999993
+                  "x": 39089.60840453808,
+                  "y": 2537.093270826994,
+                  "zoom": -0.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Session 11 Prep"
             }
+          },
+          {
+            "id": "9e71ad338dd4e80d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Vecna Eve of Ruin/Images/Barovia/05-004.rose-and-thorn.png"
+              },
+              "icon": "lucide-image",
+              "title": "05-004.rose-and-thorn"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,70 +197,74 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "peerdraft:Show my Peerdraft Shares": false
     }
   },
-  "active": "1045c95e4d16ece0",
+  "active": "9e71ad338dd4e80d",
   "lastOpenFiles": [
-    "Vecna Eve of Ruin/Images/Dragonlance/06-007.orinix.png",
-    "Vecna Eve of Ruin/Images/Dragonlance/06-006.teremini-nightsedges-ritual.png",
-    "Vecna Eve of Ruin/Images/Dragonlance/6.04-three-moons-vault-upper-level.jpg",
-    "Vecna Eve of Ruin/Images/Dragonlance/06-005.valendar.png",
-    "Vecna Eve of Ruin/Images/Dragonlance/6.03-three-moons-vault.jpg",
-    "Vecna Eve of Ruin/Images/Dragonlance/06-004.teremini-nightsedge.png",
-    "Vecna Eve of Ruin/Images/Dragonlance/06-002.borthak.png",
-    "Vecna Eve of Ruin/Images/Dragonlance/6.02-bittergrass-fen.jpg",
-    "Vecna Eve of Ruin/Images/Dragonlance/6.01-peylon-tree.jpg",
-    "Vecna Eve of Ruin/Images/Dragonlance/06-001.magical-tree.png",
-    "Vecna Eve of Ruin/Images/Dragonlance",
-    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 10 Recap - 11th April 2025.md",
-    "Vecna Eve of Ruin/Private/Session 11 Prep.canvas",
-    "Vecna Eve of Ruin/Public/Sessions Recaps/Recap Table.md",
+    "Vecna Eve of Ruin/Images/Barovia/05-003.sarusanda-allester.png",
+    "Vecna Eve of Ruin/Images/Barovia/05-002.barovian-villagers.png",
+    "Vecna Eve of Ruin/Images/Wizards Three/Webs edge.jpg",
+    "Vecna Eve of Ruin/Images/Wizards Three/the-wizards-three.jpg",
+    "Vecna Eve of Ruin/Images/Wizards Three/The Sanctum Map.jpg",
+    "Vecna Eve of Ruin/Images/Wizards Three/tasha.png",
+    "Vecna Eve of Ruin/Images/Wizards Three/mordenkainen-holding-chime-of-exile.png",
+    "Vecna Eve of Ruin/Images/Wizards Three/mordenkainen.png",
+    "Vecna Eve of Ruin/Images/Wizards Three/lady-alustriel-silverhand.png",
+    "Vecna Eve of Ruin/Images/Vecna&Kas.png",
     "Vecna Eve of Ruin/Private/Session 10 Prep.canvas",
+    "Vecna Eve of Ruin/Private/Session 11 Prep.canvas",
+    "Vecna Eve of Ruin/Public/Vecna's Memories/2 - Vecna torturing someone.md",
+    "Vecna Eve of Ruin/Public/Vecna's Memories/1 - Bullies.md",
+    "Vecna Eve of Ruin/Public/Key Items/Rod of Seven Parts.md",
+    "Vecna Eve of Ruin/Public/Key Items/Chime of Exile.md",
+    "Vecna Eve of Ruin/Public/Sessions Recaps/Session 10 Recap - 11th April 2025.md",
+    "index.md",
+    "Code Structure.canvas",
+    "Pasted image 20250226170222.png",
+    "_peerdraft_a15f31_Code Structure.canvas",
+    "PostUniCollab/Untitled.canvas",
+    "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
+    "PostUniCollab",
+    "Vecna Eve of Ruin/Public/Vecna's Memories/3 - Mazzel's Death.md",
+    "Vecna Eve of Ruin/Public/Vecna's Memories/4 - Vecna and Kas invasion plans.md",
+    "Vecna Eve of Ruin/Public/Vecna's Memories/5 - Vecna and Kas Besiege a city.md",
+    "Vecna Eve of Ruin/Public/Vecna's Memories/6 - Vecna's Gift to Kas.md",
+    "Vecna Eve of Ruin/Public/Vecna's Memories/7 - Vecna and the Serpent.md",
+    "Vecna Eve of Ruin/Public/Vecna's Memories/8 - Kas betrays Vecna.md",
+    "Vecna Eve of Ruin/Private/Session 4 Prep.canvas",
+    "Vecna Eve of Ruin/Private/Session 3 Prep.canvas",
+    "Vecna Eve of Ruin/Images/Dragonlance",
+    "Vecna Eve of Ruin/Public/Sessions Recaps/Recap Table.md",
     "Vecna Eve of Ruin/Private/S.md",
     "Vecna Eve of Ruin/Public/Sessions Recaps/Session 9 Recap - 20th March 2025.md",
-    "Vecna Eve of Ruin/Public/Vecna's Memories/1 - Bullies.md",
-    "Pasted image 20250226170222.png",
     "Vecna Eve of Ruin/Private/Session 8 and 9 Prep.canvas",
     "Vecna Eve of Ruin/Public/Sessions Recaps/Session 8 Recap - 27th February 2025.md",
     "Vecna Eve of Ruin/Private/Session 5 and 6 Prep.canvas",
-    "Vecna Eve of Ruin/Private/Session 7 Prep.canvas",
     "Vecna Eve of Ruin/Public/Sessions Recaps/Session 7 Recap - 2nd December 2024.md",
     "Vecna Eve of Ruin/Public/Characters/Vecna and Others/The Serpent.md",
     "Vecna Eve of Ruin/Public/Groups and Organisations/Athar.md",
-    "Vecna Eve of Ruin/Public/Vecna's Memories/7 - Vecna and the Serpent.md",
-    "Vecna Eve of Ruin/Public/Vecna's Memories/8 - Kas betrays Vecna.md",
-    "index.md",
-    "Vecna Eve of Ruin/Public/Key Items/Rod of Seven Parts.md",
-    "Vecna Eve of Ruin/Public/Key Items/Chime of Exile.md",
     "Vecna Eve of Ruin/Public/Characters/Wizards Three/Tasha.md",
     "Vecna Eve of Ruin/Public/Characters/Wizards Three/Mordenkainen.md",
     "Vecna Eve of Ruin/Public/Characters/Wizards Three/Alustriel Silverhand.md",
     "Vecna Eve of Ruin/Public/Characters/Vecna and Others/Vecna.md",
     "Vecna Eve of Ruin/Public/Characters/Vecna and Others/Mazzel.md",
     "Vecna Eve of Ruin/Public/Characters/Vecna and Others/Kas.md",
-    "Vecna Eve of Ruin/Public/Characters/Chapter 4/Lord of Blades (Alumi).md",
-    "Vecna Eve of Ruin/Public/Characters/Chapter 3/Celestian.md",
-    "Vecna Eve of Ruin/Public/Characters/Chapter 3/Astrophel.md",
-    "Vecna Eve of Ruin/Public/Characters/Chapter 1/Eldon Keyward.md",
-    "Vecna Eve of Ruin/Public/Characters/Chapter 1/Umberto Noblin.md",
-    "Vecna Eve of Ruin/Private/Session 2 Prep.canvas",
     "Vecna Eve of Ruin/Public/Characters/Chapter 4",
-    "Vecna Eve of Ruin/Private/Session 3 Prep.canvas",
-    "Vecna Eve of Ruin/Private/Session 4 Prep.canvas",
     "Vecna Eve of Ruin/Images/Barovia",
     "Vecna Eve of Ruin/Images/The Ruined Colossus",
     "Vecna Eve of Ruin/Public/Secrets",
     "Vecna Eve of Ruin/Public/Groups and Organisations",
     "Vecna Eve of Ruin/Public/Characters/Chapter 2",
     "Vecna Eve of Ruin/Public/Characters/Chapter 3",
-    "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage",
-    "Vecna Eve of Ruin/Images/Players"
+    "Vecna Eve of Ruin/Images/The Lambent Zeniths last voyage"
   ]
 }
